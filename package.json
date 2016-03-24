@@ -1,0 +1,20 @@
+{
+  "name": "dock-it-in-azure",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A sample project to prove out how to deploy and run a Docker container in Azure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevans-ge/dock-it-in-azure.git"
+  },
+  "author": "Steven Evans <steven.c.evans@ge.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sevans-ge/dock-it-in-azure/issues"
+  },
+  "homepage": "https://github.com/sevans-ge/dock-it-in-azure#readme"
+}
