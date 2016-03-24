@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sevans-ge/dock-it-in-azure/issues"
   },
-  "homepage": "https://github.com/sevans-ge/dock-it-in-azure#readme"
+  "homepage": "https://github.com/sevans-ge/dock-it-in-azure#readme",
+  "dependencies": {
+    "camp": "^16.0.1"
+  }
 }
